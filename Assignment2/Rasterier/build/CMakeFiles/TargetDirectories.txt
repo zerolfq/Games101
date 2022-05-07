@@ -1,0 +1,3 @@
+/home/cs18/Desktop/game101/Assignment2/Rasterier/build/CMakeFiles/rebuild_cache.dir
+/home/cs18/Desktop/game101/Assignment2/Rasterier/build/CMakeFiles/Rasterizer.dir
+/home/cs18/Desktop/game101/Assignment2/Rasterier/build/CMakeFiles/edit_cache.dir
